@@ -1,0 +1,20 @@
+{
+  "name": "database-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js",
+    "run": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.0.0-beta.2",
+    "dotenv": "^16.4.5",
+    "express": "^5.0.0-beta.2",
+    "mongoose": "^8.2.2"
+  }
+}
