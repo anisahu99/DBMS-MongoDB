@@ -25,7 +25,7 @@ Before running the application, ensure you have:
    ```bash
    npm start
 5. Access the application at http://localhost:4000
-6. Ensure to set the following environment variables in your keys.js file:
+6. Ensure to set the following environment variables in your env.js file:
 7. PORT
 8. DB_USER_NAME: Your MongoDB Atlas user name.
 9. DB_USER_PASSWORD: Your MongoDB Atlas user password.
